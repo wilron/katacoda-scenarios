@@ -1,0 +1,1 @@
+In this scenario, you will learn how to create an Azure Machine Learning job to train a sample model.
