@@ -18,7 +18,7 @@ then set your default resource group and workspace `az configure --defaults grou
 
 Clone the example repository with the command `git clone https://github.com/Azure/azureml-examples --depth 1 && cd azureml-examples/cli/jobs`{{execute}}
 
-Let's look at a simple AML job definition `hello-world.yml`{{open}}.
+Let's look at a simple AML job definition `/azureml-examples/cli/jobs/hello-world.yml`{{open}}.
 
-And then let's run the sample `az ml job create -f hello-world.yml --web --stream`
+And then let's run the sample `az ml job create -f hello-world.yml --web --stream`{{execute}}
 
